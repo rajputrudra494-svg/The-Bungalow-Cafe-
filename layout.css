@@ -1,0 +1,38 @@
+header{
+position:sticky;
+top:0;
+z-index:100;
+background:#ffffff;
+padding:16px 28px;
+display:flex;
+justify-content:space-between;
+align-items:center;
+box-shadow:0 4px 20px rgba(0,0,0,0.06);
+}
+
+nav{
+display:flex;
+gap:20px;
+}
+
+nav a{
+font-size:0.9rem;
+font-weight:500;
+}
+
+main{
+max-width:1200px;
+margin:auto;
+padding:40px 24px;
+}
+
+section{
+margin-bottom:90px;
+}
+
+footer{
+background:#ffffff;
+padding:22px;
+text-align:center;
+box-shadow:0 -4px 20px rgba(0,0,0,0.06);
+}

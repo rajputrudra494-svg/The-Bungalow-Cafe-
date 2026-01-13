@@ -1,0 +1,11 @@
+@media(max-width:900px){
+#hero{
+grid-template-columns:1fr;
+text-align:center;
+padding:40px 28px;
+}
+
+#hero h2{
+font-size:2.1rem;
+}
+}
